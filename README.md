@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_haetinger/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-haetinger-72b9771ba/)
 
-![Email](https://img.shields.io/badge/Email-mateushaetinger37@mail.com-red?style=flat-square&logo=gmail)
+![Email](https://img.shields.io/badge/Email-mateushaetinger@mail.com-red?style=flat-square&logo=gmail)
 
 
 
