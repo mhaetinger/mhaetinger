@@ -35,4 +35,4 @@
 <div>
 <br/>
 
-"Qualquer tecnologia suficiente,emte avançada é equivalente à magica" - Arthur C. Clarke
+"Qualquer tecnologia suficientemente avançada é equivalente à magica" - Arthur C. Clarke
