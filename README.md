@@ -10,15 +10,6 @@
 ![Email](https://img.shields.io/badge/Email-mateushaetinger@mail.com-red?style=flat-square&logo=gmail)
 
 
-
-
-## Status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaetinger&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaetinger&layout=compact)
-
 ### Tecnologias
 
 <div style = "display: inline_block"><br/>
