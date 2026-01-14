@@ -14,10 +14,10 @@
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaetinger&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhaetinger&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaetinger&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaetinger&layout=compact)
 
 ### Tecnologias
 
@@ -30,7 +30,6 @@
   <img alignm="center" alt="Next.JS" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
   <img alignm="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alignm="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alignm="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   
 <div>
 <br/>
